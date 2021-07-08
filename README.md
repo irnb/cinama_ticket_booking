@@ -6,7 +6,7 @@ java fx(i using scene builder)
 
 sqlite
 
-!!!Not completed yet
+!!!Not complet.     ed yet
 
 now it's done 
 
